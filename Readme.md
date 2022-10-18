@@ -1,6 +1,6 @@
 ## SWII6 TP02 
 
-Link do video: https://youtu.be/GqE4lIgwULI
+Link do video: https://youtu.be/X7_W0jzOrIg
 # Autores
 Andreza do Nascimento Pessoa Matricula: Cb3012191
 

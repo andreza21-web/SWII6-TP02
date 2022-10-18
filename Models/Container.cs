@@ -4,7 +4,7 @@ using System.Xml.Linq;
 
 namespace TP02.Models
 {
- 
+ [Table("containers")]
     public class Container
     {
         [Display(Name = "Código")]
